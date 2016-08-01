@@ -1,23 +1,17 @@
 div {
-	box-sizing: border-box;
 	width: 200px;
 	height: 200px;	
 	border: 2px solid black;
-	margin: 10px 20px;
-	padding: 20px;
-	display: block;
+	margin: 10px;
 	background: grey;
 }
 
 .caja{
-	width: 600px;
-	height: 200px;
-	padding: 12px 4px;
+	height: 230px;
+	width: 700px;
 }
 
 .bloque{
-	height: 150px;
-	width: 150px;
 	display: inline-block;
 }
 
